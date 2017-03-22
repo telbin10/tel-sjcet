@@ -1,0 +1,11 @@
+s=0
+o=0
+e=0
+echo "enter the limits:"
+while read n
+do
+s='expr $s + $n'
+r='expr $n % 2'
+if [$r
+
+
